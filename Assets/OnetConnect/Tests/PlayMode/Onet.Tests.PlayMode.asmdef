@@ -1,0 +1,11 @@
+{
+    "name": "Onet.Tests.PlayMode",
+    "rootNamespace": "Onet.Tests",
+    "references": ["Onet.Core", "Onet.Runtime", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "autoReferenced": false
+}

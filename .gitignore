@@ -1,0 +1,38 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+mono_crash.*.json
+
+# IDE / generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vsconfig
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity Android build temp
+/.utmp/
+/Assets/InitTestScene*.unity*

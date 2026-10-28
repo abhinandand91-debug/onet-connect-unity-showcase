@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2446b44750943278faa1cdd2a7542d, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Onet.Runtime::Onet.Data.GameConfig
+  basePairScore: 10
+  comboWindow: 3
+  maxCombo: 5
+  pathDisplayTime: 0.35
+  matchPopTime: 0.2
+  gravitySlideTime: 0.18
+  hintHighlightTime: 3
+  autoShuffleOnDeadlock: 1
+  addTimeSeconds: 10
+  boosters:
+  - type: 0
+    startingCount: 12
+    coinPrice: 50
+    unlockLevel: 3
+    icon: {fileID: 21300000, guid: 1f4103fd90ee24659873f2cb3d6642d3, type: 3}
+  - type: 1
+    startingCount: 2
+    coinPrice: 80
+    unlockLevel: 6
+    icon: {fileID: 21300000, guid: 117fe89be3e2848689fe92a0b36f5bcf, type: 3}
+  - type: 2
+    startingCount: 2
+    coinPrice: 100
+    unlockLevel: 12
+    icon: {fileID: 21300000, guid: 2c09efcdd84834e569ec6a4afc7e7db5, type: 3}
+  - type: 3
+    startingCount: 12
+    coinPrice: 60
+    unlockLevel: 8
+    icon: {fileID: 21300000, guid: efcfec19f11d849c698c3a84fa4a0cf1, type: 3}
+  continueSeconds: 30
+  continueCoinPrice: 150
+  rewardedAdContinue: 1
+  interstitialAds: 1
+  interstitialFromLevel: 4
+  interstitialMinGap: 180

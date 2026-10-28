@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d683afd0d8ca4a2e83a4b2c6e37cacb, type: 3}
+  m_Name: Theme_Flowers
+  m_EditorClassIdentifier: Onet.Runtime::Onet.Data.TileTheme
+  themeId: flowers
+  displayName: Flowers
+  icons:
+  - {fileID: 21300000, guid: 8c48c3f86b7094acb88fc05059237b55, type: 3}
+  - {fileID: 21300000, guid: b83868deeb5a847c19ae44781600d689, type: 3}
+  - {fileID: 21300000, guid: 671138035ea234ad3940a8b9bea5c462, type: 3}
+  - {fileID: 21300000, guid: 7a5e810b935124aac89b8f5b939ec62e, type: 3}
+  - {fileID: 21300000, guid: 522ed7a2c54eb42b5b413b06e6755919, type: 3}
+  - {fileID: 21300000, guid: b30118a9e4431413ea2df8272ed82da4, type: 3}
+  - {fileID: 21300000, guid: 1171f3e3cabd54b4a90b2a2c2363917a, type: 3}
+  - {fileID: 21300000, guid: e6229b9f98605491c9bf9cf0c700f87f, type: 3}
+  - {fileID: 21300000, guid: cbcbbab9089054b45b561fec6d669cc6, type: 3}
+  - {fileID: 21300000, guid: e1b662c42d8e249cfb9fe4b01cb76e82, type: 3}
+  - {fileID: 21300000, guid: 94da42f9cb3a44bb3a43563d890c5815, type: 3}
+  - {fileID: 21300000, guid: 909af507d609c4f19bc8328ab3c2a2d7, type: 3}
+  - {fileID: 21300000, guid: 053e6ed48a26544c3b6a831bb1ddfaba, type: 3}
+  - {fileID: 21300000, guid: 60eea1d06eb534516a50bb5109a4948f, type: 3}
+  - {fileID: 21300000, guid: a563d9d6035184f7eb2ebdffb7bff5d7, type: 3}
+  - {fileID: 21300000, guid: 1e2331eea4f674544bdbd15e6793fffd, type: 3}
+  - {fileID: 21300000, guid: 89daab43f16cf4cc7a263882c9086a44, type: 3}
+  - {fileID: 21300000, guid: f1868fac7b6d144c5aa75075e2cf61be, type: 3}
+  - {fileID: 21300000, guid: 64eb7260914e14d61a5b09570d522fed, type: 3}
+  - {fileID: 21300000, guid: dfe52cc61a6bf42b6a9d2a0159c0dfb7, type: 3}
+  - {fileID: 21300000, guid: d96e89bcdd0984abd89a5b272fb3c2df, type: 3}
+  - {fileID: 21300000, guid: 545dda43d5ddb4a71a5a01d70882d269, type: 3}
+  - {fileID: 21300000, guid: 4dcc2581fc21d4677a674a4ca0c65f74, type: 3}
+  - {fileID: 21300000, guid: 28dfdd2bdca4d41b9a587d1f901949cc, type: 3}
+  - {fileID: 21300000, guid: ffd88fd5b5db34552a138ec1e617d7b0, type: 3}
+  - {fileID: 21300000, guid: fd148c2c6f68c40c2991481da527cae3, type: 3}
+  - {fileID: 21300000, guid: d5e35d12f9fd3452ea70850e9574666e, type: 3}
+  - {fileID: 21300000, guid: 97e6d74224fd64f88939475d58a28b12, type: 3}
+  happyIcons: []
+  categories: []
+  tileTints: []
+  tileBackground: {fileID: 21300000, guid: 6328653edc470418993106a60ca09476, type: 3}
+  tileShadow: {fileID: 0}
+  selectedFrame: {fileID: 21300000, guid: ef7a8ee2aec9d4389a2309edf79d9e88, type: 3}
+  tileSelected: {fileID: 0}
+  tileHint: {fileID: 0}
+  selectedTint: {r: 1, g: 0.93, b: 0.58, a: 1}
+  hintTint: {r: 0.6, g: 1, b: 0.6, a: 1}
+  background: {fileID: 21300000, guid: 9761bd12af8a94f179709776d848a854, type: 3}
+  boardPanelColor: {r: 0.3, g: 0.32, b: 0.55, a: 0.8}
+  lineColor: {r: 1, g: 0.86, b: 0.45, a: 1}
+  pathStarSprite: {fileID: 21300000, guid: 6bdb4fc812f0643f6b613e0a4d904b6f, type: 3}

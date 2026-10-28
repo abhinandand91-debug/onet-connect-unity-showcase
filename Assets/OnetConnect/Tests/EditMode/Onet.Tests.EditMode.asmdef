@@ -1,0 +1,20 @@
+{
+    "name": "Onet.Tests.EditMode",
+    "references": [
+        "Onet.Core",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Onet.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+}

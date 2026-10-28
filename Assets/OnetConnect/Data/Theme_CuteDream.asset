@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d683afd0d8ca4a2e83a4b2c6e37cacb, type: 3}
+  m_Name: Theme_CuteDream
+  m_EditorClassIdentifier: Onet.Runtime::Onet.Data.TileTheme
+  themeId: cute_dream
+  displayName: Cute Dream
+  icons:
+  - {fileID: 21300000, guid: 7238ce37dca904050af91b3b3c7c5628, type: 3}
+  - {fileID: 21300000, guid: fa5e1cfa02be1453da7417f89671ba41, type: 3}
+  - {fileID: 21300000, guid: 6f83f257e994944acb273b1d13eb9097, type: 3}
+  - {fileID: 21300000, guid: 80689d251179043ee88b6008ab5b2ed3, type: 3}
+  - {fileID: 21300000, guid: 2fb02c849d3b947d899b41ee02fa4649, type: 3}
+  - {fileID: 21300000, guid: f76b83af3453f42208a00c7cdf2dd451, type: 3}
+  - {fileID: 21300000, guid: 8695933cbf9724e8ea5ac7d1def07948, type: 3}
+  - {fileID: 21300000, guid: e4f60174f01db4c1d9c1700bad9e5688, type: 3}
+  - {fileID: 21300000, guid: befda9c0c0e7943028a688e44f7dc85d, type: 3}
+  - {fileID: 21300000, guid: 4b6f7ddf7bde645f4a212603915ec437, type: 3}
+  - {fileID: 21300000, guid: 6a44b3710e2204927a501d67be448c81, type: 3}
+  - {fileID: 21300000, guid: 6a4e43d6199f04527b89c1050d71f816, type: 3}
+  - {fileID: 21300000, guid: ca773192bc19a4087b1eb0b8fa7d011f, type: 3}
+  - {fileID: 21300000, guid: d595acd33362a445fba10cdc603cdf06, type: 3}
+  - {fileID: 21300000, guid: 38bf5d34fb59a459eb3fd866770433cc, type: 3}
+  - {fileID: 21300000, guid: 7363584a6b815473b9f0af578cc3926a, type: 3}
+  - {fileID: 21300000, guid: 7bff6b411b0a14d408455a38f851d202, type: 3}
+  - {fileID: 21300000, guid: f43f058ff893f44c680a50b22a169706, type: 3}
+  - {fileID: 21300000, guid: 012026d27a65b4cc284ed0daf518c242, type: 3}
+  - {fileID: 21300000, guid: c18c528629f68435ba21363fc5c771bd, type: 3}
+  - {fileID: 21300000, guid: c2edde0d26507437dabd88ef9e7e6b47, type: 3}
+  - {fileID: 21300000, guid: edb12878235ef45e989d14faf219e456, type: 3}
+  - {fileID: 21300000, guid: 9fc547d9ffade4ac7b19d3a638b748a3, type: 3}
+  - {fileID: 21300000, guid: c9339df4ae31544cb87ddc9c4cfaafcc, type: 3}
+  - {fileID: 21300000, guid: 14f1161c243ff4d55b0c0ed98bf70015, type: 3}
+  - {fileID: 21300000, guid: db8d4fdc3ef9a497e8ac326de17562c6, type: 3}
+  - {fileID: 21300000, guid: 94bc9c8c457af4b4eb6acf6fcd3c3119, type: 3}
+  - {fileID: 21300000, guid: 87522eefafa404803a758a38a26fedd7, type: 3}
+  - {fileID: 21300000, guid: 7526e5ad548934555aec8de573a3587e, type: 3}
+  - {fileID: 21300000, guid: 9918007fdf7794ba39005abece802cf3, type: 3}
+  - {fileID: 21300000, guid: 72723f3d73ab44045a7ec4510de13ed3, type: 3}
+  - {fileID: 21300000, guid: a4737803a696e4cac9170578018ef134, type: 3}
+  - {fileID: 21300000, guid: fb254a6eb3ffc44e2be4707538a96884, type: 3}
+  - {fileID: 21300000, guid: b0c8945f0cb2146b7935df86aecd27c2, type: 3}
+  - {fileID: 21300000, guid: 5db4ceeff4a36418f984bc2113e41ec0, type: 3}
+  - {fileID: 21300000, guid: 49da5809fdcd14ace9abe79847d57a3d, type: 3}
+  happyIcons:
+  - {fileID: 21300000, guid: 341832c5577af41d0852e7ec26426f8f, type: 3}
+  - {fileID: 21300000, guid: 58dd457d02e794c08a2a20bf83c7d200, type: 3}
+  - {fileID: 21300000, guid: 7c946408c52c14b5fadecc7f39aa97c3, type: 3}
+  - {fileID: 21300000, guid: 4724109da93f5453391e5a408c0a99fa, type: 3}
+  - {fileID: 21300000, guid: 52a3e762cf8994675a99d6581ae92161, type: 3}
+  - {fileID: 21300000, guid: cf22a5ba8a2ec4065b56ce5d212565ed, type: 3}
+  - {fileID: 21300000, guid: 3eacb8a31444f4c61915348c757f5f31, type: 3}
+  - {fileID: 21300000, guid: 8068af3480d024636b37e80cde1e3d4d, type: 3}
+  - {fileID: 21300000, guid: 5508c6df29afc4b55baf4c1ca8d389cb, type: 3}
+  - {fileID: 21300000, guid: 27969bc6841004d0ea1a79a900b036b5, type: 3}
+  - {fileID: 21300000, guid: be917fe5aa1d44ddda524b6ffe44a8a4, type: 3}
+  - {fileID: 21300000, guid: cc6c105f02f51441a93fe7b8aa916512, type: 3}
+  - {fileID: 21300000, guid: f369ec6e21af14d069d6a3b54b88d19b, type: 3}
+  - {fileID: 21300000, guid: 8427c8688022b4bbfbe49f3efd54fa3b, type: 3}
+  - {fileID: 21300000, guid: 035053019d1ab414b9ac6ebdedc20cd4, type: 3}
+  - {fileID: 21300000, guid: aa0946953de904f9baadf7c9d982b793, type: 3}
+  - {fileID: 21300000, guid: af52ddd3e3e4e46348f822a80d559289, type: 3}
+  - {fileID: 21300000, guid: 5643e41a1c3644161bf95fbca8fb90a6, type: 3}
+  - {fileID: 21300000, guid: d22a46ee1512242c0a9bbc0f1d098dd2, type: 3}
+  - {fileID: 21300000, guid: ed91552634fa94d24bc1ddfd2417a33e, type: 3}
+  - {fileID: 21300000, guid: e802a5edd132b41cf8fccd4d36fe348c, type: 3}
+  - {fileID: 21300000, guid: 6305812ad69b64868884d097dbc2ae30, type: 3}
+  - {fileID: 21300000, guid: e127539c46e214e4fb3d2b991c39be57, type: 3}
+  - {fileID: 21300000, guid: 27ffbe4bb6423427285b9f321c38f97f, type: 3}
+  - {fileID: 21300000, guid: d6effc273569a4cff9c26e2c1b45ce40, type: 3}
+  - {fileID: 21300000, guid: 3a9aebadc97a1432ab2ade0981292466, type: 3}
+  - {fileID: 21300000, guid: 5491989575fd84084870019836aba17e, type: 3}
+  - {fileID: 21300000, guid: 8b136437cd6394dcb969e688fc22171c, type: 3}
+  - {fileID: 21300000, guid: 2a8464233e46d4aa498bfdfda5946f21, type: 3}
+  - {fileID: 21300000, guid: 31958b35347394519944a5d52bdcf93c, type: 3}
+  - {fileID: 21300000, guid: 5f722403705d94173a9e8af657abe6ee, type: 3}
+  - {fileID: 21300000, guid: 30a650f08c43347a8a4fb8d9bcb40879, type: 3}
+  - {fileID: 21300000, guid: 051a9629af47d494a85686f2a95c60a9, type: 3}
+  - {fileID: 21300000, guid: c00fb22c7f13e48b9981721f0d24ab3e, type: 3}
+  - {fileID: 21300000, guid: bf5290046e2684caa95353ded501bac6, type: 3}
+  - {fileID: 21300000, guid: c689e7cc51f26423b96ffc62dc9bd1cf, type: 3}
+  categories:
+  - name: Animals
+    dot: {r: 0.96, g: 0.5, b: 0.46, a: 1}
+    indices: 000000000100000002000000030000000400000005000000090000000c00000011000000180000001b0000001c000000
+  - name: Treats
+    dot: {r: 0.98, g: 0.76, b: 0.3, a: 1}
+    indices: 06000000080000000a0000000f0000001200000016000000
+  - name: Magic
+    dot: {r: 0.62, g: 0.46, b: 0.88, a: 1}
+    indices: 0d0000000e0000001400000017000000190000001d000000
+  - name: More
+    dot: {r: 0.3, g: 0.66, b: 0.9, a: 1}
+    indices: 070000000b0000001000000013000000150000001a0000001e0000001f00000020000000210000002200000023000000
+  tileTints:
+  - {r: 1, g: 0.78, b: 0.72, a: 1}
+  - {r: 0.84, g: 0.76, b: 1, a: 1}
+  - {r: 1, g: 0.9, b: 0.55, a: 1}
+  - {r: 0.7, g: 0.88, b: 1, a: 1}
+  - {r: 0.7, g: 0.95, b: 0.82, a: 1}
+  - {r: 1, g: 0.82, b: 0.6, a: 1}
+  - {r: 0.82, g: 0.95, b: 0.65, a: 1}
+  - {r: 1, g: 0.78, b: 0.88, a: 1}
+  tileBackground: {fileID: 21300000, guid: 54aaad320f18b414c88ea218b7f1141f, type: 3}
+  tileShadow: {fileID: 0}
+  selectedFrame: {fileID: 0}
+  tileSelected: {fileID: 21300000, guid: 7c702851e23024172904aa3a6caa3c6a, type: 3}
+  tileHint: {fileID: 21300000, guid: 8d2ea632e72b2458cb082c6e02c4c407, type: 3}
+  selectedTint: {r: 1, g: 0.93, b: 0.55, a: 1}
+  hintTint: {r: 0.6, g: 1, b: 0.6, a: 1}
+  background: {fileID: 21300000, guid: 534ed65434bbf454e87d98baeb4f9f04, type: 3}
+  boardPanelColor: {r: 0.42, g: 0.4, b: 0.66, a: 0.78}
+  lineColor: {r: 1, g: 0.86, b: 0.45, a: 1}
+  pathStarSprite: {fileID: 21300000, guid: 6bdb4fc812f0643f6b613e0a4d904b6f, type: 3}
