@@ -1,0 +1,16 @@
+{
+    "name": "Onet.Editor",
+    "rootNamespace": "Onet.EditorTools",
+    "references": [
+        "Onet.Core",
+        "Onet.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem",
+        "Unity.ugui"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "autoReferenced": false
+}

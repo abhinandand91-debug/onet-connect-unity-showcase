@@ -1,0 +1,14 @@
+{
+    "name": "Onet.Runtime",
+    "rootNamespace": "Onet",
+    "references": [
+        "Onet.Core",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
